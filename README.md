@@ -3,6 +3,7 @@
 A secure, cloud-based Document Management System (DMS) built using the MERN stack and AWS services. The application enables users to upload, organize, manage, and securely share documents using Amazon S3 for storage and DynamoDB for metadata management.
 
 ---
+Live link:http://13.233.84.244/
 
 ## 🚀 Features
 
